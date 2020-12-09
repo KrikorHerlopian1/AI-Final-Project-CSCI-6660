@@ -14,5 +14,5 @@ first train,then play.
 To run the game python3 game.py
 
 # For minimax-android
-Download the game from google play store https://play.google.com/store/apps/details?id=com.krikorherlopian.tictactoe_minima
+Download the game from google play store https://play.google.com/store/apps/details?id=com.krikorherlopian.tictactoe_minimax
 
